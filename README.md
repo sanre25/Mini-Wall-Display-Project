@@ -8,4 +8,8 @@ Our main objective in this proeject is to create display wall. For that we have 
 
 
 
-The code and readme file for appraoch 1 can be found in `Task1_code` folder. For approach 2 relevent code can be found in `Task2_code` with readme file.
+- The code and readme file for appraoch 1 can be found in `Task1_code` folder. For approach 2 relevent code can be found in `Task2_code` with readme file.
+- 
+- Working demo of our implementation can be found in `Working_Demo` folder.
+
+
